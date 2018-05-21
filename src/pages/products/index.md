@@ -4,7 +4,7 @@ title: Great Stories
 image: /img/sebastian-pichler-41218-unsplash.jpg
 heading: the path to a great story
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
+ Pumpkin is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
